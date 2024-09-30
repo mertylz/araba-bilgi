@@ -1,0 +1,52 @@
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Akshar", sans-serif;
+}
+
+/* HEADER START */
+.container {
+    background-color: #484C4D;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 90px;
+}
+
+.navbar img {
+    max-height: 80px;
+   
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+.nav ul li a {
+    color: #A1A2A3;
+    font-size: 1.2rem;
+   
+    text-transform: uppercase;
+    margin-left: 20px;
+    
+    transition: color 0.3s ease;
+    
+}
+
+.nav ul li a:hover {
+    color: #ffffff;
+    
+}
+
+/* HEADER END */

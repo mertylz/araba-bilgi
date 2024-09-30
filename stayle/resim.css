@@ -1,0 +1,43 @@
+
+.resim{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.resim img{
+    width: 30%;
+}
+
+.fiat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fiat img{
+    width: 15%;
+    height: auto;
+}
+.honda {
+   
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.honda img{
+    width: 20%;
+    height: auto;
+}
+.hundai{
+    margin: 20px auto;
+    /*background-color: black;*/
+    max-width: 800px;
+    max-height: 200px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hundai img{
+    /*width: 100%;*/
+}

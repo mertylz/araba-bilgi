@@ -1,0 +1,50 @@
+.content {
+    margin-top: 10px;
+    color: #525050;
+    max-width: 1200px; 
+    margin: 20px auto; 
+    padding: 20px;
+}
+
+.gırıs h3 {
+    font-size: 23px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.yaz, .yaz1, .yaz2, .yaz3 , .yaz4 
+ {
+    margin: 20px 30px; 
+}
+
+.yaz1 h1, .yaz2 h1 , .yaz4 h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.yaz p, .yaz1 p, .yaz2 p , .yaz3 p , .yaz4 p{
+    font-weight: 500;
+    font-size: larger;
+    line-height: 1.6; 
+}
+
+
+
+
+.ara {
+    margin: 40px 50px;
+    font-weight: 300;
+    font-size: larger;
+    line-height: 1.4;
+}
+
+.ara h3 {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.ara p {
+    margin-bottom: 20px;
+    font-size: larger;
+}
