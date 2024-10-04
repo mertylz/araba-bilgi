@@ -31,7 +31,6 @@
 }
 .hundai{
     margin: 20px auto;
-    /*background-color: black;*/
     max-width: 800px;
     max-height: 200px ;
     display: flex;
@@ -39,5 +38,27 @@
     justify-content: center;
 }
 .hundai img{
-    /*width: 100%;*/
+    width: 100%;
+}
+
+
+.mitsubishi{
+    margin: 20px auto;
+max-width: 1200px;
+display: flex;
+justify-content: center;
+
+}
+.mitsubishi img{
+    width: 30%;
+}
+.peugeot{
+    margin: 20px auto;
+    max-width: 1200px;
+    display: flex;
+    justify-content: center; 
+}
+.peugeot img{
+width: 30%;
+height: auto;
 }
