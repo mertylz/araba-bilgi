@@ -45,15 +45,17 @@ html {
 }
 
 .section {
+    
     padding: 20px;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); 
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); 
     gap: 15px; 
     max-width: 1200px; 
     margin: 20px auto; 
 }
 
 .car {
+   
     background-color: #f9f9f9; 
     border: 2px solid #A1A2A3;
     border-radius: 10px;
@@ -75,4 +77,7 @@ html {
 
 .car a {
     color: #626566;
+}
+.car h2{
+    font-size: 22px;
 }

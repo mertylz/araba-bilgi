@@ -25,7 +25,7 @@
 
 .yaz p, .yaz1 p, .yaz2 p , .yaz3 p , .yaz4 p{
     font-weight: 500;
-    font-size: larger;
+    font-size: 18px;
     line-height: 1.6; 
 }
 
@@ -35,8 +35,8 @@
 .ara {
     margin: 40px 50px;
     font-weight: 300;
-    font-size: larger;
-    line-height: 1.4;
+    font-size: 16px;
+    line-height: 1.6;
 }
 
 .ara h3 {
@@ -46,5 +46,5 @@
 
 .ara p {
     margin-bottom: 20px;
-    font-size: 20px;
+    font-size: 18px;
 }
