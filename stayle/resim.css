@@ -62,3 +62,16 @@ justify-content: center;
 width: 30%;
 height: auto;
 }
+
+.togg{
+
+    max-height: 400px;
+    max-width: 500px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+}
+.togg img{
+    width: 65%;
+
+}
