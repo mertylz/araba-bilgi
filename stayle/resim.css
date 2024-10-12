@@ -75,3 +75,10 @@ height: auto;
     width: 65%;
 
 }
+.toyota {
+    display: flex;
+    justify-content: center;
+}
+.toyota img{
+    width: 25%;
+}
